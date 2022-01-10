@@ -11,6 +11,43 @@ Add some style blocks below this line to style the cards.
 Feel free to borrow from Exercise 1.
 */
 
+/* MOBILE*/
+
+h2{
+    margin-left: 17px;
+}
+
+p{
+    width: 39vh;
+    margin-left: 17px;
+}
+
+img{
+    width: 40vh;
+    padding: 1px;
+}
+
+iframe{
+    width: 40vh;
+    padding: 1px;
+
+}
+
+button{
+    margin-left: 17px;
+    margin-bottom: 20px;
+}
+
+section {
+    box-sizing: border-box;
+    border: solid 1px #CCC;
+    width: 40vh;
+}
+
+/*DESKTOP*/
+
+
+
 
 /* Tablet Media Query */
 @media only screen and (max-width: 1000px) {
